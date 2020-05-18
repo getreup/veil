@@ -21,7 +21,7 @@ import (
 	//
 	//    sw "github.com/myname/myrepo/go"
 	//
-	sw "github.com/getreup/veil"
+	sw "github.com/getreup/veil/go"
 )
 
 func main() {
